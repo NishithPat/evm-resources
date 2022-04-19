@@ -9,3 +9,5 @@
 [EVM Deep Dives: The Path to Shadowy Super Coder 🥷 💻 - Part 2](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b?s=r)
 
 [EVM Deep Dives: The Path to Shadowy Super Coder 🥷 💻 - Part 3](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea?s=r)
+
+[evm codes](https://www.evm.codes/)
