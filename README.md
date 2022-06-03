@@ -11,3 +11,5 @@
 [EVM Deep Dives: The Path to Shadowy Super Coder 🥷 💻 - Part 3](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea?s=r)
 
 [evm codes](https://www.evm.codes/)
+
+[ethereumbook](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc#contract-deployment-code)
